@@ -1,37 +1,23 @@
-package nestedConditional;
-
+package nestedConditionalEx;
 import java.util.Scanner;
-
-public class Nested1 {
+public class NestedEx2 {
     public static void main(String[] args) {
-        Scanner readData = new Scanner(System.in);
-        int day = Integer.parseInt(readData.nextLine());
+        Scanner readData = new Scanner (System.in);
+        String filmType= readData.nextLine();
+        int rows = Integer.parseInt(readData.nextLine());
+        int columns = Integer.parseInt(readData.nextLine());
 
-        switch (day) {
-            case 1:
-                System.out.println("Monday");
-                break;
-            case 2:
-                System.out.println("Tuesday");
-                break;
-            case 3:
-                System.out.println("Wednesday");
-                break;
-            case 4:
-                System.out.println("Thursday");
-                break;
-            case 5:
-                System.out.println("Friday");
-                break;
-            case 6:
-                System.out.println("Saturday");
-                break;
-            case 7:
-                System.out.println("Sunday");
-                break;
-            default:
-                System.out.println("Error");
-                break;
+        int seats = rows * columns;
+
+        double price = 0.00;
+        if (filmType.equals("Premiere")){
+            price = seats * 12.00;
         }
+        else if (filmType.equals("Normal")){
+            price = seats * 7.50;
+        }else if (filmType.equals("Discount")){
+            price = seats * 5.00;
+        }
+        System.out.printf("%.2f leva", price);
     }
 }
