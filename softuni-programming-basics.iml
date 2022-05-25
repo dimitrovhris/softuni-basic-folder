@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/conditional-satements-more" isTestSource="false" packagePrefix="conditionalStatementsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/conditional-statements" isTestSource="false" packagePrefix="conditionalStatements" />
+      <sourceFolder url="file://$MODULE_DIR$/conditionalstatements-ex" isTestSource="false" packagePrefix="conditionalStatementsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/exam-preparation-1" isTestSource="false" packagePrefix="exExam1" />
+      <sourceFolder url="file://$MODULE_DIR$/exam-preparation-2" isTestSource="false" packagePrefix="exExam2" />
+      <sourceFolder url="file://$MODULE_DIR$/exam-preparation-3" isTestSource="false" packagePrefix="exExam3" />
+      <sourceFolder url="file://$MODULE_DIR$/exam-preparation-4" isTestSource="false" packagePrefix="exExam4" />
+      <sourceFolder url="file://$MODULE_DIR$/exam-preparation-5" isTestSource="false" packagePrefix="exExam5" />
+      <sourceFolder url="file://$MODULE_DIR$/first-steps-exercise" isTestSource="false" packagePrefix="simpleCalculationsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/first-steps-in-coding" isTestSource="false" packagePrefix="simpleCalculations" />
+      <sourceFolder url="file://$MODULE_DIR$/first-steps-more-ex" isTestSource="false" packagePrefix="simpleCalculationsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/for-loop" isTestSource="false" packagePrefix="loops" />
+      <sourceFolder url="file://$MODULE_DIR$/for-loop-ex" isTestSource="false" packagePrefix="loopsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/for-loop-more" isTestSource="false" packagePrefix="loopsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-coditional-ex" isTestSource="false" packagePrefix="nestedConditionalEx" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-conditional-lab" isTestSource="false" packagePrefix="nestedConditional" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-conditional-more" isTestSource="false" packagePrefix="conditionalStatementsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-loops" isTestSource="false" packagePrefix="nestedLoops" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-loops-ex" isTestSource="false" packagePrefix="nestedLoopsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/nested-loops-more" isTestSource="false" packagePrefix="nestedLoopsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/while-loop" isTestSource="false" packagePrefix="whileLoops" />
+      <sourceFolder url="file://$MODULE_DIR$/while-loop-ex" isTestSource="false" packagePrefix="whileLoopsEx" />
+      <sourceFolder url="file://$MODULE_DIR$/while-loop-more" isTestSource="false" packagePrefix="whileLoopsEx" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
